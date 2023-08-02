@@ -14,6 +14,7 @@
 		391320192A7A5831009EB106 /* SlotGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391320182A7A5831009EB106 /* SlotGameTests.swift */; };
 		391320232A7A5831009EB106 /* SlotGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391320222A7A5831009EB106 /* SlotGameUITests.swift */; };
 		391320252A7A5831009EB106 /* SlotGameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391320242A7A5831009EB106 /* SlotGameUITestsLaunchTests.swift */; };
+		391320322A7A5845009EB106 /* Hexagon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391320312A7A5845009EB106 /* Hexagon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3913201E2A7A5831009EB106 /* SlotGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlotGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		391320222A7A5831009EB106 /* SlotGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlotGameUITests.swift; sourceTree = "<group>"; };
 		391320242A7A5831009EB106 /* SlotGameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlotGameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		391320312A7A5845009EB106 /* Hexagon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hexagon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				391320092A7A5830009EB106 /* ContentView.swift */,
 				3913200B2A7A5831009EB106 /* Assets.xcassets */,
 				3913200D2A7A5831009EB106 /* Preview Content */,
+				391320312A7A5845009EB106 /* Hexagon.swift */,
 			);
 			path = SlotGame;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				3913200A2A7A5830009EB106 /* ContentView.swift in Sources */,
 				391320082A7A5830009EB106 /* SlotGameApp.swift in Sources */,
+				391320322A7A5845009EB106 /* Hexagon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
